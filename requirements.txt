@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 streamlit
 pandas
 numpy
-scikit-learn
-=======
-streamlit
-pandas
-numpy
-scikit-learn
->>>>>>> 44050b8855fc4ccd891ad4672811b1134451863c
-plotly
+scipy
+scikit-learn==1.6.1
+joblib
+matplotlib
+seaborn
+xgboost
