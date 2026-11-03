@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 from pathlib import Path
 
@@ -465,7 +464,7 @@ DATASET_YEAR = 2025
 
 FEATURES = [
     "Year",
-    "CreditScore",
+     "CreditScore",
     "Age",
     "Tenure",
     "Balance",
